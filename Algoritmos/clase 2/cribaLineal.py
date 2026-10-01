@@ -5,7 +5,7 @@
 def criba_lineal(N):
     es_primo = [True for _ in range(N+1)]
     primos = []
-    for i in range(2, N):
+    for i in range(2, N+1):
         if es_primo[i]:
             primos.append(i)
         for p in primos:

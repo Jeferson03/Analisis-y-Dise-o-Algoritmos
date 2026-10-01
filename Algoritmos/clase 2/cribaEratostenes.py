@@ -6,7 +6,7 @@
 #
 #Paso 3: Todos los múltiplos de ese número, a partir de su cuadrado, se ponen en False
 #
-#Paso 4: Si el cuadrado de ese número es menor que N se regresa al paso 2, encaso contario el algoritmo termina.
+#Paso 4: Si el cuadrado de ese número es menor que N se regresa al paso 2, en caso contario el algoritmo termina.
 #
 #Paso 5: Todos los números con valor True son los primos
 
